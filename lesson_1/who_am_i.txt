@@ -1,0 +1,3 @@
+I am Anna and I'm working as a Data Governance Manager with GPI. The reason I'm taking this course is that I want to understand the capabilities of dbt better, as it's an essential part of our tool stack. This helps me to be more on point with my recommendations as part of my role.
+
+Btw, I'm using nano, as I truly dislike vim.
